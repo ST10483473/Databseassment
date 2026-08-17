@@ -1,0 +1,5 @@
+CREATE DATABASE ArtGalleryDB;
+GO
+
+USE ArtGalleryDB;
+GO

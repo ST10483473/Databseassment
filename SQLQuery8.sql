@@ -1,0 +1,11 @@
+USE ArtGalleryDB;
+GO
+
+INSERT INTO Entry (ArtworkID, ExhibitionID)
+VALUES
+(1, 1),
+(2, 1),
+(3, 2),
+(4, 3),
+(5, 4);
+GO
